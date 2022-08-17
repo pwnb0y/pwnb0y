@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://pwnb0y.medium.com/](https://pwnb0y.medium.com/)
 
-- 💬 Ask me about **Infosec,Ethical Hacking,Bug Bounty**
+- 💬 Ask me about **Infosec,Ethical Hacking,Bug Bounty,Programming,Python,Script Writing**
 
 - 📫 How to reach me **vickykr07@yahoo.com**
 
