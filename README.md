@@ -2,7 +2,7 @@
 <h1 align="center">Hello Folks 👋, I'm Vicky Aryan</h1>
 <h3 align="center">A passionate Cybersecurity and Computer Science Student.</h3>
 
-<p align="left" width="300"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="pwnb0y" /> </p>
+<p align="center" width="500"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="pwnb0y" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pwn_b0y" target="blank"><img src="https://img.shields.io/twitter/follow/pwn_b0y?logo=twitter&style=for-the-badge" alt="pwn_b0y" /></a> </p>
 
