@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/pwn_b0y" target="blank"><img src="https://img.shields.io/twitter/follow/pwn_b0y?logo=twitter&style=for-the-badge" alt="pwn_b0y" /></a> </p>
 
-- 🔭 I’m currently working on **Penetration Testing and Bug Bounty**
+- 🔭 I’m currently working on **Open Source Contribution and Exploring DEVSECOPS**
 
-- 🌱 I’m currently learning **Cybersecurity,Penetration Testing,Active directory**
+- 🌱 I’m currently learning **GO, Powershell, Bash, Docker, Kubernetes, Security Implitation in Kubernetes cluster**
 
 - 📝 I regularly write articles on [https://pwnb0y.medium.com/](https://pwnb0y.medium.com/)
 
 - 💬 Ask me about **Infosec,Ethical Hacking,Bug Bounty,Programming,Python,Script Writing**
 
-- 📫 How to reach me **vickykr07@yahoo.com**
+-  📫 How to reach me **vickykr07@yahoo.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
