@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Open Source Contribution and Exploring DEVSECOPS**
 
-- 🌱 I’m currently learning **GO, Powershell, Bash, Docker, Kubernetes, Security Implitation in Kubernetes cluster**
+- 🌱 I’m currently learning **JAVA**
 
 - 📝 I regularly write articles on [let's learn](https://pwnb0y.medium.com/)
 
-- 💬 Ask me about **Infosec,Ethical Hacking,Bug Bounty,Programming,Python,Script Writing**
+- 💬 Ask me about **Infosec,Ethical Hacking,Bug Bounty,Python,Java,Kubernates,Cloud,Github,Open-Source,Hacktoberfest**
 
 -  📫 How to reach me [vickykr07@yahoo.com](mailto:vickykr07@yahoo.com)
 
