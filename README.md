@@ -59,7 +59,7 @@
 </a>
 </p>
   
- ## 🏆 Achievements 
+ ## 🏆 Awards 
   
   <p align=""> <a href="https://holopin.io/@pwnb0y" target="blank"><img width="120px" height="120px" src="https://user-images.githubusercontent.com/96813659/199291789-6bf1daec-a347-4e95-aa42-c58ce3d82b21.png" alt="hacktoberfest-level1"/> </a>
  <a href="https://holopin.io/@pwnb0y" target="blank"><img width="120px" height="120px" src="https://user-images.githubusercontent.com/96813659/199291813-d52dd06b-a3bd-47aa-8e36-f1c6f0af9b29.png" alt="hacktoberfest-level2"/> </a>
