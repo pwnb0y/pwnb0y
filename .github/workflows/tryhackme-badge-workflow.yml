@@ -12,5 +12,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: p4p1/tryhackme-badge-workflow@main
         with:
-          username: "elliothacking"
+          username: "pwnb0y"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
