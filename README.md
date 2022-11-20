@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello Folks 👋, I'm Vicky Aryan</h1>
 <h3 align="center"><i>A passionate Cybersecurity and Computer Science Student.</i></h3>
 
@@ -59,13 +58,12 @@
 </a>
 </p>
   
- ## 🏆 Awards 
+ ## 🛡️ Badges
   
   <p align=""> <a href="https://holopin.io/@pwnb0y" target="blank"><img width="120px" height="120px" src="https://user-images.githubusercontent.com/96813659/199291789-6bf1daec-a347-4e95-aa42-c58ce3d82b21.png" alt="hacktoberfest-level1"/> </a>
  <a href="https://holopin.io/@pwnb0y" target="blank"><img width="120px" height="120px" src="https://user-images.githubusercontent.com/96813659/199291813-d52dd06b-a3bd-47aa-8e36-f1c6f0af9b29.png" alt="hacktoberfest-level2"/> </a>
     <a href="https://holopin.io/@pwnb0y" target="blank"><img width="120px" height="120px" src="https://user-images.githubusercontent.com/96813659/199291862-6edb8f66-8337-4621-a747-f8ca438b669f.png" alt="hacktoberfest-level3"/> </a>
     <a href="https://holopin.io/@pwnb0y" target="blank"><img width="120px" height="120px" src="https://user-images.githubusercontent.com/96813659/199291888-d11574ff-f23a-440d-8930-483bdb119cd7.png" alt="hacktoberfest-level4"/> </a>
-  </p>
-
-
-
+    <a href="https://holopin.io/@pwnb0y" target="blank"><img width="120px" height="120px" src="https://user-images.githubusercontent.com/96813659/202915805-b0f69dfc-684f-44f9-a412-51e71484876f.png" alt="hacktoberfest-docker"/> </a>
+    <a href="https://holopin.io/@pwnb0y" target="blank"><img width="120px" height="120px" src="https://user-images.githubusercontent.com/96813659/202915843-21f941c9-12fa-4561-8c32-52d930daeff6.png" alt="hacktoberfest-AppWrite"/> </a>
+    </p>
