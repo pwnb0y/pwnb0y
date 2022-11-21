@@ -1,5 +1,10 @@
 <h1 align="center">Hello Folks 👋, I'm Vicky Aryan</h1>
 <h3 align="center"><i>A passionate Cybersecurity and Computer Science Student.</i></h3>
+<div align="center">
+  <a href="https://tryhackme.com/p/elliothacking">
+  <img src="https://raw.githubusercontent.com/pwnb0y/pwnb0y/master/assets/thm_propic.png" alt="tryhackme_badge"/>
+  </div>
+  </a>
 
 <div align="left" >
   <a href="https://twitter.com/pwn_b0y" >
@@ -17,8 +22,7 @@
   </a >
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=pwnb0y)](https://github.com/pwnb0y)
-[![Github](https://img.shields.io/github/followers/pwnb0y?label=Follow&style=social)](https://github.com/pwnb0y)
-
+[![Github](https://img.shields.io/github/followers/pwnb0y?label=Follow&style=social)](https://github.com/pwnb0y) </br>
 - 🔭 I’m currently working on **Open Source Contribution and Exploring DEVSECOPS**
 
 - 🌱 I’m currently learning **JAVA**
