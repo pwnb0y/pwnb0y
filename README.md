@@ -70,7 +70,8 @@
   
  ## 🛡️ Badges
   
-  <p align=""> <a href="https://holopin.io/@pwnb0y" target="blank"><img width="120px" height="120px" src="https://user-images.githubusercontent.com/96813659/199291789-6bf1daec-a347-4e95-aa42-c58ce3d82b21.png" alt="hacktoberfest-level1"/> </a>
+  <p align=""> <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=qtIP/2jATy2zclmn+84C4GsxRgbK9vJ/qlMH/uTuOnc=" target="blank"><img width="120px" height="120px" src="https://user-images.githubusercontent.com/96813659/204074388-11f8c47f-2d5f-4131-a18a-a2e719023281.png" alt="CEH"/> </a> 
+  <a href="https://holopin.io/@pwnb0y" target="blank"><img width="120px" height="120px" src="https://user-images.githubusercontent.com/96813659/199291789-6bf1daec-a347-4e95-aa42-c58ce3d82b21.png" alt="hacktoberfest-level1"/> </a>
  <a href="https://holopin.io/@pwnb0y" target="blank"><img width="120px" height="120px" src="https://user-images.githubusercontent.com/96813659/199291813-d52dd06b-a3bd-47aa-8e36-f1c6f0af9b29.png" alt="hacktoberfest-level2"/> </a>
     <a href="https://holopin.io/@pwnb0y" target="blank"><img width="120px" height="120px" src="https://user-images.githubusercontent.com/96813659/199291862-6edb8f66-8337-4621-a747-f8ca438b669f.png" alt="hacktoberfest-level3"/> </a>
     <a href="https://holopin.io/@pwnb0y" target="blank"><img width="120px" height="120px" src="https://user-images.githubusercontent.com/96813659/199291888-d11574ff-f23a-440d-8930-483bdb119cd7.png" alt="hacktoberfest-level4"/> </a>
