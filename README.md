@@ -35,11 +35,11 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Delete the Logs and Bash History on Hacked Linux Computers to Hide Your Tracks and Avoid Being…](https://systemweakness.com/delete-the-logs-and-bash-history-on-hacked-linux-computers-to-hide-your-tracks-and-avoid-being-e08d29a92254?source=rss-3e35a1137605------2)
+- [How to use Gobuster to find Interesting Directories &amp; Files on Website.](https://infosecwriteups.com/how-to-use-gobuster-to-find-interesting-directories-files-on-website-a1aaf8fc771e?source=rss-3e35a1137605------2)
 - [Python in a Nutshell! ☺️☺️&lpar;Part-2&rpar;](https://pwnb0y.medium.com/python-in-a-nutshell-%EF%B8%8F-%EF%B8%8F-part-2-9f35dec5a1ee?source=rss-3e35a1137605------2)
 - [Python in a Nutshell! &lpar;Part-1&rpar;](https://pwnb0y.medium.com/python-in-nutshell-part-1-44c32a05a7a3?source=rss-3e35a1137605------2)
 - [Hackers use String of Emojis to hack you.](https://infosecwriteups.com/hackers-use-string-of-emojis-to-hack-you-296499845b0d?source=rss-3e35a1137605------2)
-- [C Language for Hackers &amp; Beyond! 0x02](https://infosecwriteups.com/c-language-for-hackers-beyond-0x01-eb885c8a189a?source=rss-3e35a1137605------2)
-- [Creating a backdoor in PAM in 5 line of code](https://infosecwriteups.com/creating-a-backdoor-in-pam-in-5-line-of-code-e23e99579cd9?source=rss-3e35a1137605------2)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
