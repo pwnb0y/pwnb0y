@@ -25,7 +25,7 @@
 [![Github](https://img.shields.io/github/followers/pwnb0y?label=Follow&style=social)](https://github.com/pwnb0y) </br>
 - 🔭 I’m currently working on **Open Source Contribution and Exploring DEVSECOPS**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Django**
 
 - 📝 I regularly write articles on [let's learn](https://pwnb0y.medium.com/)
 
