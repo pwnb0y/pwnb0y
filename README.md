@@ -2,6 +2,7 @@
 <h3 align="center"><i>A passionate Cybersecurity and Computer Science Student.</i></h3>
 <div align="center">
   <a href="https://tryhackme.com/p/elliothacking">
+  <a  href="https://tryhackme.com/p/pwnb0y">
   <img src="https://raw.githubusercontent.com/pwnb0y/pwnb0y/master/assets/thm_propic.png" alt="tryhackme_badge"/>
   </div>
   </a>
