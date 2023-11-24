@@ -36,11 +36,11 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Delete the Logs and Bash History on Hacked Linux Computers to Hide Your Tracks and Avoid Being…](https://systemweakness.com/delete-the-logs-and-bash-history-on-hacked-linux-computers-to-hide-your-tracks-and-avoid-being-e08d29a92254?source=rss-3e35a1137605------2)
-- [How to use Gobuster to find Interesting Directories &amp; Files on Website.](https://infosecwriteups.com/how-to-use-gobuster-to-find-interesting-directories-files-on-website-a1aaf8fc771e?source=rss-3e35a1137605------2)
-- [Python in a Nutshell! ☺️☺️&lpar;Part-2&rpar;](https://pwnb0y.medium.com/python-in-a-nutshell-%EF%B8%8F-%EF%B8%8F-part-2-9f35dec5a1ee?source=rss-3e35a1137605------2)
-- [Python in a Nutshell! &lpar;Part-1&rpar;](https://pwnb0y.medium.com/python-in-nutshell-part-1-44c32a05a7a3?source=rss-3e35a1137605------2)
-- [Hackers use String of Emojis to hack you.](https://infosecwriteups.com/hackers-use-string-of-emojis-to-hack-you-296499845b0d?source=rss-3e35a1137605------2)
+- [OverTheWire —Ultimate Bandit Walkthrough](https://pwnb0y.medium.com/overthewire-ultimate-bandit-walkthrough-0a2c56adb63f?source=rss-3e35a1137605------2)
+- [HackTheBox Walkthrough : Antique](https://pwnb0y.medium.com/hackthebox-walkthrough-antique-060561357627?source=rss-3e35a1137605------2)
+- [Vulnerabilities in Python Serialization: Pickle](https://infosecwriteups.com/vulnerabilities-in-python-serialization-pickle-d2385de642f6?source=rss-3e35a1137605------2)
+- [ExifTool : A Meta-Data Extractor](https://pwnb0y.medium.com/exiftool-a-meta-data-extractor-0f2a173b81c0?source=rss-3e35a1137605------2)
+- [Use Fail2ban to Protect Against Brute Force Attacks](https://infosecwriteups.com/use-fail2ban-to-protect-against-brute-force-attacks-7dad0b0b1042?source=rss-3e35a1137605------2)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
