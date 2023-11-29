@@ -36,11 +36,11 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [What are the log4j vulnerabilities, and how did it function?](https://pwnb0y.medium.com/what-are-the-log4j-vulnerabilities-and-how-did-it-function-5d2cc6906433?source=rss-3e35a1137605------2)
 - [What is Banner Grabbing??Several Approaches for Banner Grabs.](https://infosecwriteups.com/what-is-banner-grabbing-several-approaches-for-banner-grabs-6fc2cce7b2a0?source=rss-3e35a1137605------2)
 - [OverTheWire —Ultimate Bandit Walkthrough](https://pwnb0y.medium.com/overthewire-ultimate-bandit-walkthrough-0a2c56adb63f?source=rss-3e35a1137605------2)
 - [HackTheBox Walkthrough : Antique](https://pwnb0y.medium.com/hackthebox-walkthrough-antique-060561357627?source=rss-3e35a1137605------2)
 - [Vulnerabilities in Python Serialization: Pickle](https://infosecwriteups.com/vulnerabilities-in-python-serialization-pickle-d2385de642f6?source=rss-3e35a1137605------2)
-- [ExifTool : A Meta-Data Extractor](https://pwnb0y.medium.com/exiftool-a-meta-data-extractor-0f2a173b81c0?source=rss-3e35a1137605------2)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
