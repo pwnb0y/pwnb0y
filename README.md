@@ -36,11 +36,11 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [An Extensive Look at Kerberoasting Attack](https://pwnb0y.medium.com/an-extensive-look-at-kerberoasting-attack-3c8970f403d6?source=rss-3e35a1137605------2)
 - [What is this httpx thing? Using it in your adventure with Bugbounty?](https://systemweakness.com/what-is-this-httpx-thing-using-it-in-your-adventure-with-bugbounty-f91f1ef31d49?source=rss-3e35a1137605------2)
 - [What are the log4j vulnerabilities, and how did it function?](https://infosecwriteups.com/what-are-the-log4j-vulnerabilities-and-how-did-it-function-5d2cc6906433?source=rss-3e35a1137605------2)
 - [What is Banner Grabbing??Several Approaches for Banner Grabs.](https://infosecwriteups.com/what-is-banner-grabbing-several-approaches-for-banner-grabs-6fc2cce7b2a0?source=rss-3e35a1137605------2)
 - [OverTheWire —Ultimate Bandit Walkthrough](https://pwnb0y.medium.com/overthewire-ultimate-bandit-walkthrough-0a2c56adb63f?source=rss-3e35a1137605------2)
-- [HackTheBox Walkthrough : Antique](https://pwnb0y.medium.com/hackthebox-walkthrough-antique-060561357627?source=rss-3e35a1137605------2)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
