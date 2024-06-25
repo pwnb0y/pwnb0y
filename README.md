@@ -36,7 +36,7 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Blockchain Technology: Decentralized Ledger Systems Revolutionizing Data Management](https://infosecwriteups.com/exploring-blockchain-technology-decentralized-ledger-systems-revolutionizing-data-management-76649630ad04?source=rss-3e35a1137605------2)
+- [Exploring Blockchain Technology: Decentralized Ledger Systems Revolutionizing Data Management](https://medium.com/coinmonks/exploring-blockchain-technology-decentralized-ledger-systems-revolutionizing-data-management-76649630ad04?source=rss-3e35a1137605------2)
 - [Escalation of Windows Privilege: Kernel Exploit.](https://infosecwriteups.com/escalation-of-windows-privilege-kernel-exploit-bddda00c1ab2?source=rss-3e35a1137605------2)
 - [An Extensive Look at Kerberoasting Attack](https://pwnb0y.medium.com/an-extensive-look-at-kerberoasting-attack-3c8970f403d6?source=rss-3e35a1137605------2)
 - [What is this httpx thing? Using it in your adventure with Bugbounty?](https://systemweakness.com/what-is-this-httpx-thing-using-it-in-your-adventure-with-bugbounty-f91f1ef31d49?source=rss-3e35a1137605------2)
